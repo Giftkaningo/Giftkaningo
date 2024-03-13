@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on mobile application development.
 - 📫 How to reach me giftkaningo@gmail.com whatsApp+255756898631 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: coding is stressing and very funny thing!
 
 <!---
